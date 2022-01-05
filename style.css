@@ -1,0 +1,35 @@
+.body {
+            background-image: url(background-gradient.jpg);
+            font-family: monospace;
+        }
+
+        .login {
+            color: #f1fa8c;
+            width: 300px;
+            margin-top: 10%;
+            margin-left: auto;
+            margin-right: auto;
+            padding: 3%;
+            border: solid 3px;
+            border-radius: 3%;
+            border-color: lightgreen;
+        }
+
+        .input-box {
+            padding: 5px;
+            border: solid 1px;
+            border-radius: 5px;
+            width: 90%;
+
+        }
+
+        .login-button{
+            color: #010329;
+            font-weight: bold;
+            background:linear-gradient(to left,#71edd1, #eb50ce);
+            width: 50%;
+            margin-left: 24%;
+            margin-right: 26%;
+            padding: 5px;
+            border-radius: 5px;
+        }
